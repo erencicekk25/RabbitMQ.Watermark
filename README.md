@@ -1,7 +1,7 @@
 ﻿# RabbitMQ.Watermark
 
 
-🙌 Merhabalar, ASP.NET Core MVC ile geliştirmiş olduğum bu proje RabbitMQ'u daha iyi anlamak için yaptım. Projedeki asıl amaç girilen bir fotoğrafın üzerine "www.mysite.com" yazmak ve bunu yapabilmek için RabbitMQ üzerinden Exchange ve queue'dan yardım aldım.
+🙌 Merhabalar, ASP.NET Core MVC ile geliştirmiş olduğum bu proje RabbitMQ'u daha iyi anlamak için yaptım. Projedeki asıl amaç girilen bir fotoğrafın üzerine "www.mysite.com" yazmak ve bunu yapabilmek için 🐰 RabbitMQ üzerinden Exchange ve queue'dan yardım aldım.
 
 Projemde kullanmış olduğum bazı .NET kütüphaneleri;
 - Microsoft.EntityFrameworkCore
