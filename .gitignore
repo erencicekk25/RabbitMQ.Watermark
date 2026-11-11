@@ -1,0 +1,10 @@
+# Visual Studio / .NET build output
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+TestResults/
+*.user
+*.suo
+*.userprefs
+*.cache
